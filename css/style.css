@@ -47,6 +47,7 @@ body::after{
     background-color: rgb(87, 87, 87);
     border-radius: 5px;
     padding: 5px;
+    margin-bottom: 10px;
 }
 #weather-info .forecast-item p{
     margin-bottom: 0px;
